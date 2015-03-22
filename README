@@ -1,3 +1,19 @@
+Samsung Opensource Stock Kernel for YP-GI1 [ALL]
+
+These are the latest official Samsung kernel Sources for the Samsung Galaxy Player/S WiFi 4.2.
+---
+Kernel version: 2.6.35.7
+Device: YP-GI1 (All regions: Europe, USA, Korea, WW)
+Compatible OSs: Android 2.3.x "Gingerbread"
+Unmodified: YES
+Source: SOSRC - opensource.samsung.com 
+Year (release/last update): 2012(JAN)/2012 (FEB)
+Board name(Dev name): hugo
+Home button type: hard button
+---
+Read "INSTRUCTIONS" file for building the kernel.
+
+------------------------------------------------
 	Linux kernel release 2.6.xx <http://kernel.org/>
 
 These are the release notes for Linux version 2.6.  Read them carefully,
